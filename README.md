@@ -23,7 +23,7 @@
 
 
 <div style="display:flex; flex-direction:row;">
-    <a href="https://www.instagram.com/na___y.k/?hl=ko](https://velog.io/@kny7024/posts">
+    <a href="https://velog.io/@kny7024/posts">
         <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"> 
     </a>
 </div>
